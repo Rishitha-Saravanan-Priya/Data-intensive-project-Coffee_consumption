@@ -39,7 +39,7 @@ Team member 4: Algorithms - SVM confusion matrix (cell number - 76), XGBoost (ce
 
 # Phase 3:
 
-The dic_p3_7.py contains the code for web app, we have executed it in anaconda command prompt using the following command : \n
-$ streamlit run dic_p3_7.py\n
-Database link : https://impacts-of-coffee-consumption-default-rtdb.firebaseio.com/\n
-We have used firebase to host the dataset in real time. \n
+The dic_p3_7.py contains the code for web app, we have executed it in anaconda command prompt using the following command : \br
+$ streamlit run dic_p3_7.py\br
+Database link : https://impacts-of-coffee-consumption-default-rtdb.firebaseio.com/\br
+We have used firebase to host the dataset in real time.
